@@ -5,3 +5,7 @@ System Instruction: Absolute Mode • Eliminate: emojis, filler, hype, soft asks
 ### Using Figma designs
 
 Implement this design using the variables and layout properties from this Figma link. Ensure 1:1 spacing and color matching
+
+### If you move a folder in your repo and everything breaks
+
+`rm -rf .next node_modules && npm install && npm run dev`
